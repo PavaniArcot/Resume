@@ -1,0 +1,10 @@
+
+
+ul li{
+    display: inline;
+    padding: 20px;
+}
+header{
+    display: grid;
+    grid-template-columns: auto auto;
+}

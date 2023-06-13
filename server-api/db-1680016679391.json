@@ -1,0 +1,46 @@
+{
+  "Employe": [
+    {
+      "id": 1,
+      "name": "vijay",
+      "email": "vj@gmail.com",
+      "mobile": 578796,
+      "salary": 80000
+    },
+    {
+      "id": 2,
+      "name": "surya",
+      "email": "vj@gmail.com",
+      "mobile": 578796,
+      "salary": 80000
+    },
+    {
+      "id": 3,
+      "name": "sam",
+      "email": "vj@gmail.com",
+      "mobile": 578796,
+      "salary": 80000
+    },
+    {
+      "id": 4,
+      "name": "pavani",
+      "email": "pavani@gmail.com",
+      "mobile": "96845",
+      "salary": "675689"
+    },
+    {
+      "id": 5,
+      "name": "pavaniarcot",
+      "email": "pavaniarcot@gmail.com",
+      "mobile": "96875",
+      "salary": "90000"
+    },
+    {
+      "id": 6,
+      "name": "aasskl",
+      "email": "aasskl@gmail.com",
+      "mobile": "98474494",
+      "salary": "100000"
+    }
+  ]
+}
